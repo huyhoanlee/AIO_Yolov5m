@@ -62,9 +62,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/huyhoanlee/AIO_Yolov5m.git
    ```
-2. Open `only_streamlit.py`
+   In this repo, I already push the "best.onnx" file (contains model's weight). 
+   Path: models/best.onnx
+2. To use `only_streamlit.py` 
    ```sh
    streamlit run only_streamlit.py
    ```
@@ -78,7 +80,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 Le Huy Hoan - hoanle2003@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/huyhoanlee/AIO_Yolov5m.git](https://github.com/huyhoanlee/AIO_Yolov5m.git)
 
 
 <!-- ACKNOWLEDGMENTS -->
